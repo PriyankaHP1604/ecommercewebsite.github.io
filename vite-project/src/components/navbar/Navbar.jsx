@@ -274,7 +274,7 @@ const cartItems = useSelector((state)=> state.cart)
                   <a href="#" className="flex items-center text-gray-700 ">
                     <img
                       className="inline-block w-10 h-10 rounded-full"
-                      src="src/assets/profile-pic.jpg"
+                      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQar6dSoM8ChD0-L6cBsSKhONEA66Xmpoiy_z2HB5AgzTO7efclcglB8B8xKjX-RBPOMWE&usqp=CAU"
                       alt="Dan_Abromov"
                     />
                   </a>
